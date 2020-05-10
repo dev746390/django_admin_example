@@ -4,6 +4,7 @@ examples-django-material-admin
 
 A example for Django 3 with `material-admin`_.
 
+
 Installation
 ============
 
@@ -18,6 +19,8 @@ Installation
   $ cd djangomaterial
   $ python manage.py migrate
   $ python manage.py createsuperuser --username admin --email admin@mail.com
+  $ python manage.py makemigrations
+  $ python manage.py migrate
   $ python manage.py runserver
 
 You can see the Django project default here http://127.0.0.1:8000/
