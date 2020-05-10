@@ -1,0 +1,16 @@
+.idea/
+*.sqlite3
+.pyc/
+django/
+venv/
+__pycache__/
+build/
+dist/
+node_modules/
+*.egg-info/
+staticfiles/
+media/
+package/material/
+*.txt.py
+.env
+.DS_Store
