@@ -28,6 +28,13 @@ You can see the Django project default here http://127.0.0.1:8000/
 You can see the Django Admin default app default here http://127.0.0.1:8000/admin/
 
 
+.. image:: https://raw.githubusercontent.com/macagua/examples-django-material-admin/master/docs/_static/screenshot.png
+   :height: 485px
+   :width: 800px
+   :alt: My Django Admin with MaterializeCSS support
+   :align: right
+
+
 Reference
 =========
 
