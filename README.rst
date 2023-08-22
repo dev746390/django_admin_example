@@ -42,11 +42,6 @@ You can see the Django Admin default app default here http://127.0.0.1:8000/admi
    :align: right
 
 
-Reference
-=========
-
-- `Quick start tutorial <https://github.com/MaistrenkoAnton/django-material-admin/blob/master/README.rst>`_.
-
 .. _`material-admin`: https://pypi.org/project/django-material-admin/
 .. _`Django`: https://docs.djangoproject.com/en/3.0/
 .. _`Django Admin`: https://docs.djangoproject.com/en/3.0/ref/contrib/admin/
